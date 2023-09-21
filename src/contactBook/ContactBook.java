@@ -72,6 +72,10 @@ public class ContactBook {
         if (found) result = i;
         return result;
     }
+    
+    private int getNnumber(String name){
+        return int 9191919191;
+    }
 
     private void resize() {
         Contact tmp[] = new Contact[2*contacts.length];
