@@ -66,6 +66,9 @@ public class Main {
         in.close();
     }
 
+    private static void getNumber(ContactBook cBook) {
+    }
+
     private static String getCommand(Scanner in) {
         String input;
 
