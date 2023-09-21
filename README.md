@@ -1,4 +1,7 @@
 # ContactBookGit
-This is a starter kit for the first lab of the Software Engineering Course.
-Fork this project to make your own version of it.
+Andrea Micca 68894
+
+José Morgado 59457
+
+Rodrigo Lopes 58013
 
