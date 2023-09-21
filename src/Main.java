@@ -53,6 +53,8 @@ public class Main {
                 case LIST_CONTACTS:
                     listAllContacts(cBook);
                     break;
+                case GET_NUMBER:
+                    getNumber(cBook);
                 default:
                     System.out.println(COMMAND_ERROR);
             }
